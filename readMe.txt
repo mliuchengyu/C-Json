@@ -1,4 +1,4 @@
 
-项目编译软件版本号:
+The project compiles the software version number:
 
 Microsoft Visual Studio 2015
